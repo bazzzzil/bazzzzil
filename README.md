@@ -1,6 +1,6 @@
 👋 Hi, I’m @bazzzzil - also known as Layale :)
 
-I'm a senior analyst in the business world, but in a previous life I was a physicist and a (short-lived) data scientist.
+I'm a product manager in the business world, but in a previous life I was a physicist and a (short-lived) data scientist.
 
 You can find some old code of mine in the repositories on my profile. 
 Most are code I wrote during my studies, but some are hobbies of mine to better understand neural networks.
