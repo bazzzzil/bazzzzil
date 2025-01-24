@@ -1,4 +1,4 @@
-👋 Hi, I’m @bazzzzil - also known as Layale :)
+👋 Hi
 
 You can find some old code of mine in the repositories on my profile. 
 Most are code I wrote during my studies, but some are hobbies of mine to better understand neural networks.
